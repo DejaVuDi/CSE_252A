@@ -1,0 +1,11 @@
+37.5/40
+
+1.4 Epipolar Rectification
+
+(c)Incorrect epipolar rectification.
+
+1.5 Sparse Stereo Matching
+
+1.5.3 Naive Matching:
+
+Significant error in Unique Matching Implementation

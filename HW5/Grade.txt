@@ -1,0 +1,21 @@
+36.7/40
+
+1.3 Window size
+
+No discussion on texture or intensity variation or gradient estimate or aperture problem.
+
+2.1 Inital setup
+
+More/Less than 1 random image displayed per class.
+
+2.2 Condusion Matrix
+
+Confusion matrix slightly incorrect.
+
+2.3 KNN
+
+for the second part of the question, we were specifically asking for the single number that 7 is most often predicted to be, other than 7
+
+3.2 Single Layer Perceptron
+
+insufficient justification in "neurals are learning the digit", since this is also the case for multilayer perceptrons and pretty much every other type of ml model which may not exhibit these patterns in a layer's weights. also looking for additional reasoning along the lines of dot products producing higher activations when the vectors are more aligned
