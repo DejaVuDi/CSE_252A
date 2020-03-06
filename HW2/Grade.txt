@@ -1,0 +1,10 @@
+47.5/50
+
+Problem 1 part 1:
+
+Projection of nearest endpoint for line1 missing/ incorrect.
+Projection of nearest endpoint for line2 missing/ incorrect.
+
+Problem 1 part 2:
+
+Proof only for a particular dimension of x.

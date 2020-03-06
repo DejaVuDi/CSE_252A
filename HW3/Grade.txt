@@ -1,0 +1,5 @@
+39/40
+
+Problem 2 part 3:
+
+Commutativity/Associativity does not hold. You need to apply "full" padding for it to apply. resultant kernel is 5x3.
